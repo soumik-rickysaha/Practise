@@ -1,7 +1,7 @@
 test1
 
 <<<<<<< HEAD
-another uer has made a modification
+another uer has made a modify and change now lets see who wins
 =======
 another uer has made a change. now i need to see whose cahnge takes place
 >>>>>>> master
