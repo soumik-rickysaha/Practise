@@ -1,7 +1,3 @@
 test1
 
-<<<<<<< HEAD
-another uer has made a modification
-=======
-another uer has made a change. now i need to see whose cahnge takes place
->>>>>>> master
+user made a modification
